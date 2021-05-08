@@ -342,9 +342,5 @@ healthchecksdb
 /.vs
 *.vcxproj
 *.vcxproj.filters
-/bin
-/doc
-/examples
-/include
-/lib
-*license.md
+*.sln
+*
