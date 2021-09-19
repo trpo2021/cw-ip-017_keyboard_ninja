@@ -1,7 +1,0 @@
-*.vs/
-CppProperties.json
-Debug/
-Keyboard_Ninja.*
-Release/
-x64/
-!Keyboard_Ninja.exe
